@@ -3,7 +3,9 @@
 ## 0.init
 - `git init`
 - `.git/` 폴더를 생성해준다.
-- ![image](https://user-images.githubusercontent.com/60903805/103262731-30ced100-49e9-11eb-97fc-531e4d9d723d.png)
+
+![image](https://user-images.githubusercontent.com/60903805/103262731-30ced100-49e9-11eb-97fc-531e4d9d723d.png)
+
 - `.git` 폴더가 생성된 경우 `master`라는 표시가 나온다.
 
 ## 1.add
