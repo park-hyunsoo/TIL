@@ -27,7 +27,7 @@
 - 메세지에 들어가는 내용은 기능 단위로
 
 ## 4.remote
-- `git remote add origin <주소>
+- `git remote add origin <주소>`
 - 원격 저장소와 현재 로컬 저장소를 연결
 
 ## 5.push
