@@ -18,3 +18,16 @@
 - `git config --global user.name "myname"`
 - 최초에 한번만 하면 된다.
 
+## 3. commit
+- `git commit -m "메시지"`
+- 스냅샷을 찍는 동작
+- add 되어있는 파일들을 하나의 묶음으로 저장
+- 메세지에 들어가는 내용은 기능 단위로
+
+## 4.remote
+- `git remote add origin <주소>
+- 원격 저장소와 현재 로컬 저장소를 연결
+
+## 5.push
+- `git push origin master` 
+- 원격저장소의 master 브랜치로 로컬 저장소의 데이터를 전송
