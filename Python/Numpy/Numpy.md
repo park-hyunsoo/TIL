@@ -14,7 +14,9 @@ print(b > 5) # [False False  True]
 print((a == 2) & (b > 4)) # [False False False]
 ```
 numpy의 array() 함수를 사용해 ndarray 클래스 객체, 배열을 만들 수 있다.
+
 1차원 배열의 경우 벡터라고 한다.(행 벡터)
+
 numpy는 벡터화 연산을 지원하고 각 원소에 대한 연산을 쉽게 할 수 있다.
 
 
